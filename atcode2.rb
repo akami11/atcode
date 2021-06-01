@@ -2,7 +2,7 @@ def kake(num)
   if num%2 == 0
     "even"
   else
-  "odd"
+    "odd"
   end
 end
 
